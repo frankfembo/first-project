@@ -20,6 +20,8 @@
 
 ## Live Demo (if available)
 
+## Getting Started
+
 ## Authors
 
 👤 **Author1**
@@ -27,6 +29,8 @@
 - GitHub: [@gfrankfembo](https://github.com/frankfembo)
 - Twitter: [@Frank-Te](https://twitter.com/frankte147)
 - LinkedIn: [Frank-Tembo](https://linkedin.com/in/frank-tembo)
+
+👤 **Author2**
 
 ## 🤝 Contributing
 
